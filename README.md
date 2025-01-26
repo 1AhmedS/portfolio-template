@@ -2,6 +2,10 @@
 
 Welcome to this portfolio website! This template showcases skills and projects as a web developer, Discord bot developer, and video editor.
 
+## View the Portfolio
+
+You can view the portfolio website [here](https://1ahmeds.github.io/portfolio-template/).
+
 ## Contact
 
 Feel free to reach out to me through the following channels:
