@@ -10,7 +10,7 @@ You can view the portfolio website [here](https://1ahmeds.github.io/portfolio-te
 
 Feel free to reach out to me through the following channels:
 
-- **Contact:** [Personal Contact](https://1ahmeds.netlify.app/contact)
+- **Contact:** [Personal Contact](https://profileahmed.netlify.app/)
 - **Email:** ahmedtv027@gmail.com
 
 ## Social Media
